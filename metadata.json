@@ -1,0 +1,6 @@
+{
+  "name": "Nay em Ação — Links Oficiais",
+  "description": "Cartão digital oficial da Nay em Ação. Acesse rapidamente o contato para publicidade via WhatsApp, canal no YouTube e site oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
